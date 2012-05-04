@@ -1,5 +1,6 @@
 ### Description
 Simple console application boilerplate for .NET
+Available on Nuget: [http://nuget.org/packages/ConsolePlate](https://nuget.org/packages/ConsolePlate)
 
 ### Introduction
 There are many developers that use console applications for managing tasks like: 
@@ -38,4 +39,4 @@ To create command:
  3. Implement `Execute` method
  4. Implement `Parameters` property. It would be parsed automatically. For more info about parsing command line arguments look at [NDesk.Options](http://www.ndesk.org/Options)
 
-Look at `ConsolePlate.Example` project to see practical example.
+Look at [ConsolePlate.Example](https://github.com/AzzNomad/ConsolePlate/tree/master/Src/ConsolePlate.Example) project to see practical example.
