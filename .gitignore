@@ -1,7 +1,9 @@
 
-_ReSharper
 _ReSharper.ConsolePlate/
-bin/
-obj/
+Src/ConsolePlate/bin/
+Src/ConsolePlate/obj/
 NuGet.exe
 ConsolePlate.1.0.0.3.nupkg
+*.suo
+*.user
+ConsolePlate.suo

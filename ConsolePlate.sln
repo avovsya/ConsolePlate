@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlate", "ConsolePlate.csproj", "{A8362EAE-DC3A-411C-B80D-DC8054434906}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlate", "Src\ConsolePlate\ConsolePlate.csproj", "{A8362EAE-DC3A-411C-B80D-DC8054434906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlate.Example", "ConsolePlate.Example\ConsolePlate.Example.csproj", "{8561399F-BFD4-44B3-8510-37FCABD0D3D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlate.Example", "Src\ConsolePlate.Example\ConsolePlate.Example.csproj", "{8561399F-BFD4-44B3-8510-37FCABD0D3D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

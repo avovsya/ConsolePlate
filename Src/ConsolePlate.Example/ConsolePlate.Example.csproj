@@ -52,7 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsolePlate.csproj">
+    <ProjectReference Include="..\ConsolePlate\ConsolePlate.csproj">
       <Project>{A8362EAE-DC3A-411C-B80D-DC8054434906}</Project>
       <Name>ConsolePlate</Name>
     </ProjectReference>
