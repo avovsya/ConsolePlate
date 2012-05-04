@@ -1,5 +1,6 @@
 ### Description
 Simple console application boilerplate for .NET
+
 Available on Nuget: [http://nuget.org/packages/ConsolePlate](https://nuget.org/packages/ConsolePlate)
 
 ### Introduction
