@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ConsolePlate</id>
+    <version>1.0.0.3</version>
+    <title></title>
+    <authors>Artem Vovsya</authors>
+    <owners>Artem Vovsya</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/AzzNomad/ConsolePlate</projectUrl>
+    <!--<iconUrl></iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple console application boilerplate</description>
+    <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+    <copyright>Copyright 2012</copyright>
+    <tags>.NET Console Boilerplate</tags>
+  </metadata>
+</package>
