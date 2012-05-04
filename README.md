@@ -1,6 +1,15 @@
 ### Description
 Simple console application boilerplate for .NET
 
+### Introduction
+There are many developers that use console applications for managing tasks like: 
+
+* Creating databases
+* Seeding data
+* Configuring environment for their projects, etc
+
+So for every project they must create console app with ability to determine commands, parse command line args and etc. ConsolePlate boilerplate can simplify and accelerate the development of such apps. It uses `MEF` to quickly plug-in commands and `NDesk.Options` to parse command line arguments. So all you need is create command that implements `ICommand` interface and export it to the console application project that uses *ConsolePlate*. 
+
 ### License
 ConsolePlate is licensed under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
